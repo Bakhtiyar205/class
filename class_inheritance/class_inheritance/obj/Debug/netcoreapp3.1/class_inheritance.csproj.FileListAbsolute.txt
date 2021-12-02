@@ -1,0 +1,14 @@
+C:\Users\Baxtiyar\source\repos\class_inheritance\class_inheritance\bin\Debug\netcoreapp3.1\class_inheritance.exe
+C:\Users\Baxtiyar\source\repos\class_inheritance\class_inheritance\bin\Debug\netcoreapp3.1\class_inheritance.deps.json
+C:\Users\Baxtiyar\source\repos\class_inheritance\class_inheritance\bin\Debug\netcoreapp3.1\class_inheritance.runtimeconfig.json
+C:\Users\Baxtiyar\source\repos\class_inheritance\class_inheritance\bin\Debug\netcoreapp3.1\class_inheritance.runtimeconfig.dev.json
+C:\Users\Baxtiyar\source\repos\class_inheritance\class_inheritance\bin\Debug\netcoreapp3.1\class_inheritance.dll
+C:\Users\Baxtiyar\source\repos\class_inheritance\class_inheritance\bin\Debug\netcoreapp3.1\class_inheritance.pdb
+C:\Users\Baxtiyar\source\repos\class_inheritance\class_inheritance\obj\Debug\netcoreapp3.1\class_inheritance.csproj.AssemblyReference.cache
+C:\Users\Baxtiyar\source\repos\class_inheritance\class_inheritance\obj\Debug\netcoreapp3.1\class_inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Baxtiyar\source\repos\class_inheritance\class_inheritance\obj\Debug\netcoreapp3.1\class_inheritance.AssemblyInfoInputs.cache
+C:\Users\Baxtiyar\source\repos\class_inheritance\class_inheritance\obj\Debug\netcoreapp3.1\class_inheritance.AssemblyInfo.cs
+C:\Users\Baxtiyar\source\repos\class_inheritance\class_inheritance\obj\Debug\netcoreapp3.1\class_inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Baxtiyar\source\repos\class_inheritance\class_inheritance\obj\Debug\netcoreapp3.1\class_inheritance.dll
+C:\Users\Baxtiyar\source\repos\class_inheritance\class_inheritance\obj\Debug\netcoreapp3.1\class_inheritance.pdb
+C:\Users\Baxtiyar\source\repos\class_inheritance\class_inheritance\obj\Debug\netcoreapp3.1\class_inheritance.genruntimeconfig.cache
